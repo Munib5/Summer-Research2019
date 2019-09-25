@@ -5,7 +5,7 @@ which if there is no access to them the code switches to CPU.
 There are 5 mini-projects here:
 
 1. Neural Forestry, trying to classify forest ecosystems base on satelite spectral data:
-
+neural_network.ipynb
 2. Using a CNN to classify the classic Cats and Dogs case:
 Load.py, Split.py, CatsDogs.py
 3. Linear Regression for Parkinson's UPDRS Score:
